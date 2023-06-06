@@ -1,2 +1,4 @@
-# bnb-chain-pathway
-BNB Chain Pathway codes
+Bnb Chain Pathway
+
+https://academy.patika.dev/paths/bnb-chain-pathway
+
